@@ -1,20 +1,20 @@
 @font-face {
   font-family: "inter";
   src: local(Inter-Black);
-  src: url(./inter/Inter-Black.woff) format("woff");
+  src: url(./inter/Inter-black.woff) format("woff");
   font-weight: 900;
 }
 
 @font-face {
   font-family: "inter";
   src: local(Inter-Bold);
-  src: url(./inter/Inter-Bold.woff) format("woff");
+  src: url(./inter/Inter-bold.woff) format("woff");
   font-weight: 700;
 }
 
 @font-face {
   font-family: "inter";
   src: local(Inter-Regular);
-  src: url(./inter/Inter-Regular.woff) format("woff");
+  src: url(./inter/Inter-regular.woff) format("woff");
   font-weight: 400;
 }
