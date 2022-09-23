@@ -1,5 +1,5 @@
 .header__logo {
-  max-width: 176px;
+  width: 176px;
   height: 52px;
   transition: opacity 0.3s ease;
   opacity: 1;
